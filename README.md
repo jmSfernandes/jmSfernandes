@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Marcelo 
+[![](https://img.shields.io/badge/-Marcelo%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmarceloslfernandes/)](https://www.linkedin.com/in/jmarceloslfernandes/)
 <!--
 **jmSfernandes/jmSfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=jmsfernandes&show_icons=true&theme=dracula)
+
